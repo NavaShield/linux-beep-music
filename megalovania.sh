@@ -1,7 +1,7 @@
 #!/bin/bash
 
 importRaw(){
-	local rawPath="https://raw.githubusercontent.com/propilideno/linux-beep-music/main/lib/$1.sh"
+	local rawPath="https://raw.githubusercontent.com/NavaShield/linux-beep-music/main/lib/$1.sh"
 	source <(curl -sSL "$rawPath")
 }
 
