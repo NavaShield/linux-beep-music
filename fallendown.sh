@@ -8,7 +8,7 @@ importRaw(){
 importRaw "libmusic"
 
 # First part of the song with same rythm
-song="F# C# F# C# F# C# F# C# F# C# F# C# B A C# A B E D# E F# D# B F# B F# B F# B F# A# F# A# G F# D F# D E F# E D C# F# C# F# C# F# C# F# C# F# C# F# C# B A C# A B E D# E F# D# B F# B F# B F# B F# A# F# A# G F# D F# D E F# E D C# F# C# F# C# F# C# F# C# F# C# F# C# B A C# A B E D# E F# D# B F# B F# B F# B F# A# F# A# G F# D F# D E F# E D C# F# C# F# C# F# C# F# C# F# C# F# C# B A C# A B E D# E F# D# B F# B F# B F# B F# A# F# A# G F# D F# D E F# C# E C# F# C# F# C# F# C# F# C# F# C# F# C# B A C# A B E D# E F# D# B F# B F# B F# B F# A# F# A# G"
+song="F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 B4 A4 C#4 A4 B4 E4 D#4 E4 F#4 D#4 B4 F#4 B4 F#4 B4 F#4 B4 F#4 A#4 F#4 A#4 G4 F#4 D4 F#4 D4 E4 F#4 E4 D4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 B4 A4 C#4 A4 B4 E4 D#4 E4 F#4 D#4 B4 F#4 B4 F#4 B4 F#4 B4 F#4 A#4 F#4 A#4 G4 F#4 D4 F#4 D4 E4 F#4 E4 D4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 B4 A4 C#4 A4 B4 E4 D#4 E4 F#4 D#4 B4 F#4 B4 F#4 B4 F#4 B4 F#4 A#4 F#4 A#4 G4 F#4 D4 F#4 D4 E4 F#4 E4 D4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 B4 A4 C#4 A4 B4 E4 D#4 E4 F#4 D#4 B4 F#4 B4 F#4 B4 F#4 B4 F#4 A#4 F#4 A#4 G4 F#4 D4 F#4 D4 E4 F#4 C#4 E4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 F#4 C#4 B4 A4 C#4 A4 B4 E4 D#4 E4 F#4 D#4 B4 F#4 B4 F#4 B4 F#4 B4 F#4 A#4 F#4 A#4 G4"
 
 intervals=( 0.06 0.08 0.15 0.30 0.14 0.14 0.14 0.06 0.06 0.09 )
 
